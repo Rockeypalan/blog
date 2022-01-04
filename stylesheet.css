@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+}
+.background{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+/* .word{
+    position: absolute;
+} */
+.one{
+    margin-top: -7400px;
+    margin-left: 30%;
+    position: absolute;
+}
+.h1{
+    font-size: 70px;
+}
+.two{
+    position: absolute;
+    margin-top: -5700px;
+    margin-left: 100px;
+}
+.three{
+    position: absolute;
+    margin-top: -4400px;
+    margin-left: 800px;
+}
+.four{
+    position: absolute;
+    margin-top: -3150px;
+    margin-left: 100px;
+}
+.five{
+    position: absolute;
+    margin-top: -1950px;
+    margin-left: 800px;
+}
+.six{
+    position: absolute;
+    margin-top: -800px;
+    margin-left: 350px;
+}
